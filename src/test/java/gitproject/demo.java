@@ -7,6 +7,10 @@ public class demo {
 		
 		System.out.println("This is the first git project");
 		System.out.println("Team member01 - This is the second git project");
+		
+		// 12/16 1:21 pm changes
+		
+		System.out.println("Second code check in from team member01");
 
 	}
 
