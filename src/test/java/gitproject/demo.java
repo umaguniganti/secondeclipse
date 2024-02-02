@@ -17,6 +17,7 @@ public class demo {
 				
 				System.out.println("Added new feature");		
 
+				System.out.println("added new java file to the package as a lead");
 
 	}
 
