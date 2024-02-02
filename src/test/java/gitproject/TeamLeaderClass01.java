@@ -11,7 +11,10 @@ public class TeamLeaderClass01 {
 		b=7;
 		c=a+b;
 		
-		System.out.println(c);
+		//added 2 values to c
+		
+		System.out.println("Addition of two values is:"+c);
+		
 
 	}
 
